@@ -1,2 +1,2 @@
-### 2024-1-OSSProj-Questionmark-07
+### 2024-1-OSSProj-Questionmark-07 팀의 리파지토리입니다.
 - 팀 구성    - (팀장) 정동현    - 이희주    - 이하연
