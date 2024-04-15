@@ -145,7 +145,8 @@
 
 **(3) 대안 도출 및 구현 계획**
 
-![Untitled](%E1%84%89%E1%85%AE%E1%84%92%E1%85%A2%E1%86%BC%E1%84%80%E1%85%A8%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%20d1a8208416364a029721bdcd22544bcb/Untitled.png)
+![아키텍쳐](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/162097932/11873247-6069-44d8-961c-825a44750f58)
+
 
 ![Untitled-3](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/162097932/6a2a1c2b-c991-4545-8c7e-3872439b431c)
 
