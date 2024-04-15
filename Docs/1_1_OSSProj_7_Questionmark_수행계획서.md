@@ -140,7 +140,8 @@
 
 데이터 SSR을 위하여 React-Query의 Hydration을 활용할 예정입니다. 
 
-![듀얼 학습방법.png](%E1%84%89%E1%85%AE%E1%84%92%E1%85%A2%E1%86%BC%E1%84%80%E1%85%A8%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%20d1a8208416364a029721bdcd22544bcb/%25EB%2593%2580%25EC%2596%25BC_%25ED%2595%2599%25EC%258A%25B5%25EB%25B0%25A9%25EB%25B2%2595.png)
+<img width="710" alt="SSR" src="https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/162097932/a3dfca21-9a6a-4614-9914-90a0c57a29b7">
+
 
 **(3) 대안 도출 및 구현 계획**
 
