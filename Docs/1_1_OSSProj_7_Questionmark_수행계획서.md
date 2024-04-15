@@ -147,7 +147,8 @@
 
 ![Untitled](%E1%84%89%E1%85%AE%E1%84%92%E1%85%A2%E1%86%BC%E1%84%80%E1%85%A8%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%20d1a8208416364a029721bdcd22544bcb/Untitled.png)
 
-![Untitled](%E1%84%89%E1%85%AE%E1%84%92%E1%85%A2%E1%86%BC%E1%84%80%E1%85%A8%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%20d1a8208416364a029721bdcd22544bcb/Untitled%201.png)
+![Untitled-3](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/162097932/6a2a1c2b-c991-4545-8c7e-3872439b431c)
+
 
 - 최종 목표를 달성하기 위해 다양한 가능성과 대안을 고려하고 그 중 하나의 솔루션을 선택한다.
     - 깃헙의 개발 환경 제한 요소
