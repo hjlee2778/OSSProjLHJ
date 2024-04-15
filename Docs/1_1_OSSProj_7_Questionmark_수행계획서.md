@@ -167,7 +167,7 @@
 **(5) 개발 환경**
 
 - 최종 설계 결과물의 구현 수단
-    - 개발환경 (BE) : MySQL , Marina DB , NGINX , Redis , Junit 5 , Spring boot , Docker , Kubernetes , Gradle
+    - 개발환경 (BE) : MySQL , Maria DB , NGINX , Redis , Junit 5 , Spring boot , Docker , Kubernetes , Gradle
     - 개발환경 (FE) : typescript, react, Next.js, ReactQuery, Storybook
 
 **2.4 기대효과**
