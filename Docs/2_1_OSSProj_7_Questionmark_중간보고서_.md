@@ -231,11 +231,11 @@
 
 **UseCase Diagram**
 
-![KakaoTalk_Photo_2024-05-08-18-13-33.png](%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%20981b82542c1b416e879e21e5bac3f27f/KakaoTalk_Photo_2024-05-08-18-13-33.png)
+<img width="706" alt="KakaoTalk_Photo_2024-05-08-18-13-33" src="https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/144092849/6d172661-09a6-46aa-ad96-0f4b6b18da4d">
 
 **Sequence Diagram**
 
-![KakaoTalk_Photo_2024-05-08-18-13-17.png](%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%20981b82542c1b416e879e21e5bac3f27f/KakaoTalk_Photo_2024-05-08-18-13-17.png)
+![KakaoTalk_Photo_2024-05-08-18-13-17](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/144092849/0da09614-209b-4c57-8b6c-19887292e77d)
 
 **(3) 대안 도출 및 구현 계획**
 
