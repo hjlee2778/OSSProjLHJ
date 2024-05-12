@@ -239,9 +239,9 @@
 
 **(3) 대안 도출 및 구현 계획**
 
-[https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/162097932/11873247-6069-44d8-961c-825a44750f58](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/162097932/11873247-6069-44d8-961c-825a44750f58)
+![아키텍쳐](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/162097932/11873247-6069-44d8-961c-825a44750f58)
 
-[https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/162097932/6a2a1c2b-c991-4545-8c7e-3872439b431c](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/162097932/6a2a1c2b-c991-4545-8c7e-3872439b431c)
+![Untitled-3](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/162097932/6a2a1c2b-c991-4545-8c7e-3872439b431c)
 
 - 타 경쟁사들을 비교 분석하여 대안이 될 만한 요소 조사 및 결과 도출
     - 깃헙의 개발 환경 제한 요소
