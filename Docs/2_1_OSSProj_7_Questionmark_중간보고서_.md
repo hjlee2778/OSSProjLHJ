@@ -371,7 +371,7 @@ mysql -u duel -p -h host주소
 
 **2.5 추진일정**
 
-[https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/86837b2f-e5c6-4a9f-99e6-d07fc76d7eb7](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/86837b2f-e5c6-4a9f-99e6-d07fc76d7eb7)
+![Untitled](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/86837b2f-e5c6-4a9f-99e6-d07fc76d7eb7)
 
 | 1주차 요구사항 정의 & 화면기획 | 2주차 기능 상세 기획 | 3주차 기획 고도화 | 4주차 메인기능 구현 | 5주차 메인 기능 구현 |
 | --- | --- | --- | --- | --- |
