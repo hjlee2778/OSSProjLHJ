@@ -4,7 +4,7 @@
 
 - 제품 Overview :
 
-      [Overview 바로보기](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/blob/main/src/overview.md)
+      (https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/blob/main/src/overview.md)
 
 ## 2. 프로젝트 제품 배포 방법
 
