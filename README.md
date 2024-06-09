@@ -7,11 +7,6 @@
 
 # DUEL (Dongguk University E-Learning Laboratory)
 
----
-
-
-# DUEL (Dongguk University E-Learning Laboratory)
-
 ## 팀 구성원
 
 | 역할 | 성명 | 학번 | 소속학과 | 연계전공 | 이메일 |
@@ -21,16 +16,11 @@
 | 팀원 | 이하연 | 2019110914 | 경제학과 | 융합SW연계전공 | mailto:hlee09300@naver.com |
 
 ## 프로젝트 소개 및 이용 방법 (유저 플로우)
+![유저플로우](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/8a6edb9c-ed93-4480-b247-b879dd78023c)
 
 ---
 
-그룹 로드맵 서비스 기반 개발 학습 환경 플랫폼
-
-DUEL (Dongguk University E-Learning Laboratory)
-
-https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/144092849/0d0f86e2-11d7-4a1d-8b6e-09691c534ba2
-
-## 구현결과
+### 구현결과
 
 ---
 
@@ -83,9 +73,18 @@ https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/144092849/0d0f
 
 ---
 
-- **마크다운 에디터를 통한 TIL 작성 지원**.
-- **개발 학습 로드맵 제공 및 커뮤니티 조성**.
-- **통합 개발 학습 환경 제공을 통한 효율적인 학습 경험**.
+- **개발 역량 향상**:
+    - 학습 일지(TIL)를 통해 개발자들이 자신의 학습 내용을 체계적으로 기록하고 복습함으로써 학습 효율을 극대화할 수 있습니다.
+    - 로드맵 기능을 통해 체계적이고 단계적인 학습 계획을 수립할 수 있어, 목표 지향적인 학습이 가능합니다.
+- **지식 공유와 협업 촉진**:
+    - 학습 일지와 로드맵을 통해 다른 사용자들과 학습 과정을 공유하고 피드백을 주고받음으로써 커뮤니티 내 지식 공유와 협업이 촉진됩니다.
+    - 코멘트 기능을 통해 사용자는 자신의 학습 내용을 다른 사람들과 논의하고, 다양한 관점에서 피드백을 받을 수 있습니다.
+- **동기부여 및 지속적인 학습 환경 조성**:
+    - 알림 기능을 통해 다른 사용자의 피드백을 실시간으로 받아볼 수 있어, 학습에 대한 동기부여가 지속적으로 제공됩니다.
+    - 학습 커뮤니티를 형성하여, 사용자 간의 상호작용이 활발해짐으로써 지속적인 학습 환경이 조성됩니다.
+- **개인 맞춤형 학습 경로 제공**:
+    - 사용자가 자신의 학습 주제와 단계별 학습 계획을 세울 수 있어, 개인 맞춤형 학습 경로를 제공할 수 있습니다.
+    - 각 사용자의 학습 진행 상황을 시각적으로 확인할 수 있어, 자기주도적인 학습이 가능합니다.
 
 ## 개발 환경
 
@@ -93,35 +92,11 @@ https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/144092849/0d0f
 
 ## Backend
 
-https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 
-https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white
-
-https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white
-
-https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
-
-https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white
-
-https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
-
-https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-
-https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
-
-https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white
 
 ## Frontend
 
-https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-
-https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white
-
-https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white
 
 # 추가 자료
 
