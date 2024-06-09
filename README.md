@@ -1,6 +1,5 @@
 ## 동국대학교 개발자 학습환경 플랫폼
-# DUEL   
-(Dongguk University E-Learning Laboratory)
+# DUEL    (Dongguk University E-Learning Laboratory)
 
 ## BE 리포지토리
 
