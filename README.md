@@ -1,4 +1,6 @@
 ![리드미 최상단](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/8cbab0c3-6ab0-49bc-98ae-b9684f7069a6)
+![스크린샷 2024-06-09 162529](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/254ab237-40b0-4c67-8e2b-49b3b9bd50ee)
+
 ## 동국대학교 개발자 학습환경 플랫폼
 
 ---
@@ -7,9 +9,6 @@
 
 ---
 
-![처음.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/6b8632d5-d5d6-4158-8652-80ff3d57667e/%E1%84%8E%E1%85%A5%E1%84%8B%E1%85%B3%E1%86%B7.gif)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/88d98f06-f621-4054-a765-5765f4efc102/Untitled.png)
 
 # DUEL (Dongguk University E-Learning Laboratory)
 
