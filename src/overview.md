@@ -6,6 +6,9 @@
 
 동국대 개발자 학습 플랫폼은 동국대학교 개발자들이 학습 내용을 공유하고 서로 피드백을 주고받을 수 있는 온라인 학습 플랫폼입니다. 사용자는 학습 일지(TIL)를 작성하고, 학습 주제를 생성하며, 학습 로드맵을 관리할 수 있습니다. 또한, 다른 사용자와 소통하며 학습 효과를 극대화할 수 있는 다양한 기능을 제공합니다.
 
+## 서비스 시연 영상
+https://foregoing-education-610.notion.site/ef4266b418ee47d38b6010aea5d2ad1b?pvs=4
+
 ## 시스템 아키텍처 (System Architecture)
 
 ![아키텍쳐](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/162097932/11873247-6069-44d8-961c-825a44750f58)
