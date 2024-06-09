@@ -56,7 +56,8 @@
 
 **(2)  선행 기술 및 사례 분석**
 
-![ox.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/3d0156de-e1d1-4a08-8b1d-3f43b44c1c84/ox.png)
+<img width="543" alt="선행기술사례" src="https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/cefaccdd-6373-4a73-ac76-6eed64e10203">
+
 
 ### 1.3 개발 목표
 
@@ -70,50 +71,31 @@
 
 ### 2. 최종결과물 소개
 
-**주요 기능**
+# 주요 기능
+|로그인|회원가입|
+|:--:|:--:|
+|- 회원 정보 이메일을 통한 아이디<br/>-숫자 및 영문과 특수문자 조합 PW<br/> |- 이메일 인증<br/>- 비밀번호 확인 인증|
+|<img width="400" alt="로그인" src="https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/7e18eb81-099c-4c20-91ee-a7351f497e38">|<img width="400" alt="회원가입" src="https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/48c775af-134a-4855-a5c0-82a2f4215ab2">|
 
-| 로그인  | 회원가입 |
-| --- | --- |
-| 회원 정보 및 이메일 인증 | 회원 정보 입력 및 비밀번호 중복 체크 |
-|  |  |
+|TIL 작성|학습 참고 및 코멘트|
+|:--:|:--:|
+|- 마크다운 에디터를 통한 TIL 작성<br/>-사라질 걱정 없는 상시 저장 기능<br/> |- 각 STEP별 참고자료 확인<br/>- 글에 대한 코멘트 확인|
+|<img width="400" alt="TIL작성" src="https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/562392e9-4faa-4880-a25a-1fff726a834a">|<img width="400" alt="참고자료및코멘트" src="https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/0a41ee79-95b5-4f7d-99df-84cff503fba0">|
 
-![로그인.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/a0ea12d9-023f-4b9c-bf5b-0f8293bd63ec/%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB.gif)
+|메인|참고 자료|
+|:--:|:--:|
+|- 작성한 TIL 목록들을 검색하고 확인<br/>- 장미밭을 통해 학습 열정 확인 <br/> - 개인, 그룹 로드맵을 분류하여 관리|- 로드맵에 참고할 자료를 첨부하는 기능<br/>-유튜브, 참고자료 링크<br/> |
+|<img width="400" alt="메인페이지" src="https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/9855d95c-e6da-4c3a-807d-4a418c034ce9">|<img width="400" alt="참고자료업로드" src="https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/c8455eca-4376-4c18-9e70-c2d98c4022e5">|
 
-![회원가입.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/aab194b9-a719-43e5-b40e-775767975d2d/%E1%84%92%E1%85%AC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8.gif)
+|로드맵 목록|구성원 관리|
+|:--:|:--:|
+|- 내가 참여하고 있는 로드맵의 목록을 확인<br/>- 현재 모집중인 그룹 로드맵 목록 확인|- 현재 로드맵에 속한 그룹원 목록<br/>-멤버 권한 변경, 강퇴 기능<br/> -그룹원의 학습일지 작성현황 확인<br/>  -로드맵 신청 관리, 수락 거절<br/>|
+|<img width="400" alt="로드맵목록" src="https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/2ff9c35d-422b-47b1-a7f8-0da002cc4b3e">|<img width="400" alt="구성원관리" src="https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/2b72784c-7597-4a80-9e88-ab83efe068d2">|
 
-| TIL 작성 | 학습 참고 |
-| --- | --- |
-| 마크다운 에디터를 통한 TIL 작성 / 사라질 걱정 없는 상시 저장 기능  | 각 STEP별 참고자료 확인 / 글에 대한 코멘트 확인 |
-|  |  |
-
-![til 작성.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/4acf80d6-5fa1-45e6-aa29-d82989730ad8/til_%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC.gif)
-
-![학습자료 및 코멘트.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/008e7c9d-bcee-4933-8856-e500c5ad75df/%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%86%E1%85%B5%E1%86%BE_%E1%84%8F%E1%85%A9%E1%84%86%E1%85%A6%E1%86%AB%E1%84%90%E1%85%B3.gif)
-
-| 메인 | 참고 자료 |
-| --- | --- |
-| 작성한 TIL 목록들을 검색하고 확인 / 장미밭을 통해 학습 열정 확인 / 개인, 그룹 로드맵을 분류하여 관리 | 로드맵에 참고할 자료를 첨부하는 기능 / 유튜브, 참고자료 링크 |
-|  |  |
-
-![메인페이지.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/870c9b4b-9da5-4720-8ed6-cba3f5aed24d/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.gif)
-
-![참고자료.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/be39f700-e006-48a8-907e-cd6e45cbd89e/%E1%84%8E%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.gif)
-
-| 로드맵 목록 | 구성원 관리 |
-| --- | --- |
-| 내가 참여하고 있는 로드맵의 목록을 확인 / 현재 모집중인 그룹 로드맵 목록 확인 | 현재 로드맵에 속한 그룹원 목록 / 멤버 권한 변경, 강퇴 기능 / 그룹원의 학습일지 작성현황 확인 / 로드맵 신청 관리, 수락 거절 |
-|  |  |
-
-![로드맵 목록.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/4b3ce88b-1aab-46d9-9d49-8b5f0a337091/%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3%E1%84%86%E1%85%A2%E1%86%B8_%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8.gif)
-
-![구성원 관리.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/09b77149-5907-46a4-9ce4-60cde94c31de/%E1%84%80%E1%85%AE%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB_%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5.gif)
-
-| TIL 공유하기 |  |
-| --- | --- |
-| 내가 공부하는 주제에 대해 타인과 생각을 공유 |  |
-|  |  |
-
-![til 공유.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/13792483-41c9-4faf-b8c3-9eba0b7da397/til_%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B2.gif)
+|TIL 공유하기|
+|:--:|
+|- 내가 공부하는 주제에 대해 타인과 생각을 공유<br/>|
+|<img width="400" alt="작성공유" src="https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/464300eb-0f71-4d8d-8f62-aea27cf5e997">|
 
 ### 3. 프로젝트 추진 내용
 
@@ -121,31 +103,34 @@
 
 **(1) 프로젝트 추진 일정 - 간트차트**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/06e4aa56-26ec-4f14-9e3a-c8c76b812d06/Untitled.png)
+![간트차트](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/186fed11-21d2-4051-8f3f-6a3a91472b2e)
 
 **(2)User Flow**
 
-!https://private-user-images.githubusercontent.com/144092849/329828293-0d0f86e2-11d7-4a1d-8b6e-09691c534ba2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc5MTYwNzMsIm5iZiI6MTcxNzkxNTc3MywicGF0aCI6Ii8xNDQwOTI4NDkvMzI5ODI4MjkzLTBkMGY4NmUyLTExZDctNGExZC04YjZlLTA5NjkxYzUzNGJhMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwOVQwNjQ5MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZGFiOTM1ZDJjY2JlZmIyZTRlNmMyOTU5YzVlNzExNmQ0ZTAyMmM0Yzg2MWY0NjhmM2NhY2RkZjVjZTEyNTNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.TdUtWyE0gvRpkygcuvtCFFA-1mMya0TgRuvThinTZao
+![유저플로우](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/4d948c4c-ca3a-45e0-a3c5-da53e2b87029)
+
 
 - **혼자 학습**: 사용자가 혼자 카테고리를 만들고 공부하며 TIL을 작성합니다.
 - **로드맵 학습**: 제공된 로드맵(틀리 로드맵) 또는 사용자가 직접 만든 로드맵(그룹 로드맵)을 통해 단계별 학습을 진행합니다.
 - **GitHub 연동**: 작성한 TIL을 클릭 한 번으로 GitHub에 업로드할 수 있습니다.
 
 **(3)Sequence Diagram**
+![image](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/6ebd9563-bf45-402e-a64a-1dae53f9d313)
 
-!https://private-user-images.githubusercontent.com/144092849/329828497-0da09614-209b-4c57-8b6c-19887292e77d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc5MTYwNzMsIm5iZiI6MTcxNzkxNTc3MywicGF0aCI6Ii8xNDQwOTI4NDkvMzI5ODI4NDk3LTBkYTA5NjE0LTIwOWItNGM1Ny04YjZjLTE5ODg3MjkyZTc3ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwOVQwNjQ5MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMjM4ZTNmZjViNThkMDcwNWIwZWVlZmQyMDVhMDBlNTc1NjRkNzIyZjJlNjg0MmMzZjBmZGRmOWZkYzhkMTJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.f61TBVqmadyKvqGU__lT0V29quhPNOdRqmxZZPz77l8
+
+
 
 - **로그인 기능**: 사용자가 이메일과 비밀번호로 로그인 요청을 하면 서버에서 인증을 처리하고 결과를 반환합니다.
 - **TIL 작성**: 사용자가 학습 내용을 작성하고 서버에 저장하면, 서버는 저장 결과를 클라이언트에 반환합니다.
 - **로드맵 제작**: 사용자가 카테고리와 제목을 입력해 로드맵을 작성 요청하면, 서버가 로드맵 정보를 저장하고 템플릿을 적용한 후 결과를 반환합니다.
 
 **(4)Data Flow Block Diagram**
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/04361a0d-7c8a-4b88-83e7-3a1f87940516/Untitled.png)
+![데이터플로우블록](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/fe9cf8d7-a8b8-4cfa-9088-00a42f241fb4)
 
 **(5)UseCase Diagram**
+![image](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/9e07fb61-6f1b-44d3-9e76-b0fe6ce7395a)
 
-!https://private-user-images.githubusercontent.com/144092849/329828519-6d172661-09a6-46aa-ad96-0f4b6b18da4d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc5MTYwNzMsIm5iZiI6MTcxNzkxNTc3MywicGF0aCI6Ii8xNDQwOTI4NDkvMzI5ODI4NTE5LTZkMTcyNjYxLTA5YTYtNDZhYS1hZDk2LTBmNGI2YjE4ZGE0ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwOVQwNjQ5MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZjBlNDNjYzU4MWMzZGIxNjU0NzFhMTlkZmM5NzIzMDZmNmYxNzk3NjM4ZmMxNThhZWJlZWMyYWM4OWU2YTc1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.3O7Dazbi0JszRT1PI5ij3UL0vZII_AAaXoLl85QCj44
+
 
 - **사용자 기능**: 회원가입, 로그인 후 메인페이지에서 로드맵 페이지, TIL 작성 페이지, 마이페이지, 그룹 페이지로 이동 가능.
 - **로드맵 관리**: 로드맵 페이지에서 DUEL 로드맵 생성, 그룹 로드맵 생성, 로드맵 조회 및 관리 페이지로 이동.
@@ -155,7 +140,7 @@
 
 ### **ERD**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa8e32fd-eb2e-4da0-a228-1136ea9cba8f/34da4e8f-fa5d-4cdc-8f76-b3046a6fe35e/Untitled.png)
+![ERD](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/assets/112611541/dd625383-ca32-46d9-b114-e94e7b6ad653)
 
 ## 백엔드 개발 중점 ( BE )
 
