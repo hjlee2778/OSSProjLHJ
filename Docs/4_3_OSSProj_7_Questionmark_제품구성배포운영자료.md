@@ -2,8 +2,8 @@
 
 ## 1. 프로젝트 제품 구성
 
-- 제품 overview 보러가기 > 링크 연결 해야해요
-
+Overview :
+[Overview 바로보기](https://github.com/CSID-DGU/2024-1-OSSProj-Questionmark-07/blob/main/src/overview.md)
 ## 2. 프로젝트 제품 배포 방법
 
 ### 직접 설치 방법
@@ -54,6 +54,8 @@ npm run dev
 
 ## 시연 시나리오
 ### 시연을 위한 환경구성 및 운영방법
+### 시연영상
+[시연영상 바로가기](https://foregoing-education-610.notion.site/ef4266b418ee47d38b6010aea5d2ad1b?pvs=4)
 
 프로젝트 제품 배포방법의 직접설치 방법과  동일
 |로그인|회원가입|
